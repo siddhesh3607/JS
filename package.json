@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  },
+  "name": "solanajs",
+  "description": "",
+  "version": "1.0.0",
+  "main": "fn.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlyanand10/solanaJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onlyanand10/solanaJs/issues"
+  },
+  "homepage": "https://github.com/onlyanand10/solanaJs#readme"
+}
